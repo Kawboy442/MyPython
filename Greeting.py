@@ -1,3 +1,5 @@
-return = 10
+num01 = 123
+num02 = 1.23
 
-print(return)
+print(num01)
+print(num02)
