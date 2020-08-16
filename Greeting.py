@@ -1,5 +1,3 @@
-NUM = 1
-Num = 2
+return = 10
 
-print(NUM)
-print(Num)
+print(return)
