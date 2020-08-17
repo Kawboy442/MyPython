@@ -1,7 +1,6 @@
-a = ["sato", "suzuki", "takahashi"]
+a = [["sato", "suzuki"], ["takahashi", "tanaka"]]
 
-a[1] = "tanaka"
-
-print(a[0])
-print(a[1])
-print(a[2])
+print(a[0][0])
+print(a[0][1])
+print(a[1][0])
+print(a[1][1])
