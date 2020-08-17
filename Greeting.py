@@ -1,6 +1,8 @@
-a = [["sato", "suzuki"], ["takahashi", "tanaka"]]
+x = 10
+y = 2
 
-print(a[0][0])
-print(a[0][1])
-print(a[1][0])
-print(a[1][1])
+print(x + y)
+print(x - y)
+print(x * y)
+print(x / y)
+print(x % y)
